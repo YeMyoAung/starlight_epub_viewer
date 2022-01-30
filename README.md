@@ -1,7 +1,8 @@
-# Starlight Epub Viewer 
+# Starlight Epub Viewer (Paid Version)
 
 starlight_epub_viewer is an epub ebook reader that encapsulates the [folioreader](https://folioreader.github.io/FolioReaderKit/) framework.
-  It supports iOS and android.
+It supports iOS and android.
+
 
 ## Features
 | Name | Android | iOS |
